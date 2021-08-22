@@ -1,5 +1,7 @@
 # idus_test_iOS
 
+[![프로젝트 실행 유튜브 영상](http://img.youtube.com/vi/aycLeSyFb-8/0.jpg)](https://youtu.be/aycLeSyFb-8?t=0s) 
+
 ## 개발 일지
 ### 2021-07-31(1일차)
 - 로그인 화면 UI 구현 (85%, 배경 이미지 자동 변경 animation & 점선 구현 필요)
