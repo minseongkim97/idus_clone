@@ -1,5 +1,6 @@
 # idus_test_iOS
 
+프로젝트 실행 유튜브 영상
 [![프로젝트 실행 유튜브 영상](http://img.youtube.com/vi/aycLeSyFb-8/0.jpg)](https://youtu.be/aycLeSyFb-8?t=0s) 
 
 ## 개발 일지
